@@ -1,0 +1,6 @@
+{
+  "name": "Frontline AI",
+  "description": "Automated first-line customer support triage software that converts messy, real-world customer messages into structured, machine-readable decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
